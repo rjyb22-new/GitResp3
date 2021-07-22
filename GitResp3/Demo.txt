@@ -3,3 +3,5 @@ this is master modify
 =======
 branch01 修改文件
 >>>>>>> branch01
+
+branch02 修改文件
