@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 this is master modify
-=======
 branch01 修改文件
->>>>>>> branch01
 this is master modify
 branch02 修改文件
 1214 test this conflict
+rjyb22-new修改文件
